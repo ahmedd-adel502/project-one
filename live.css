@@ -105,7 +105,7 @@ float: left;
 .home{
     height: 100vh;
     position: relative;
-    background-image: url(images/background1.jpg);
+    background-image: url(background1.jpg);
 }
 .overlay{
     position: absolute;
@@ -390,7 +390,7 @@ color: #c7c5c5
     height: 50vh;
 }
 .pricing-content{
-    background-image: url(../images/background2.jpg);
+    background-image: url(background2.jpg);
     background-size: cover;
     background-attachment: fixed;
     height: 250px;
@@ -497,7 +497,7 @@ height: 40vh;
 .customers-main{
     position: relative;
     height: 400px;
-    background-image: url(../images/background3.jpg);
+    background-image: url(background3.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
